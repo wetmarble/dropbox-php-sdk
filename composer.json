@@ -1,5 +1,5 @@
 {
-    "name": "kunalvarma05/dropbox-php-sdk",
+    "name": "wetmarble/dropbox-php-sdk",
     "description": "Dropbox PHP API V2 SDK (Unofficial)",
     "keywords" : ["dropbox", "sdk", "api", "client", "php", "unofficial"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Kunal Varma",
             "email": "kunalvarma05@gmail.com"
+        },
+        {
+            "name": "Adam Wasserman ",
+            "email": "thewasserman@gmail.com"
         }
     ],
     "require": {
